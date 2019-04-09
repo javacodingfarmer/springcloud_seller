@@ -16,5 +16,5 @@ eureka:
 env:
   dev2
 girl:
-  name: lisi
+  name: huanhua
   age: 1
