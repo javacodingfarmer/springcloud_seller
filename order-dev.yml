@@ -16,5 +16,5 @@ eureka:
 env:
   dev2
 girl:
-  name: z
+  name: lisi
   age: 1
