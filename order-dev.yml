@@ -16,5 +16,5 @@ eureka:
 env:
   dev2
 girl:
-  name: 李四
+  name: zhangsan
   age: 90
