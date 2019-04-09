@@ -16,5 +16,5 @@ eureka:
 env:
   dev2
 girl:
-  name: kankan
+  name: zhangkk
   age: 90
