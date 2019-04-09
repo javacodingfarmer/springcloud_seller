@@ -16,5 +16,5 @@ eureka:
 env:
   dev2
 girl:
-  name: zhangkk
-  age: 777
+  name: z
+  age: 1
